@@ -47,7 +47,7 @@ It is built with plain HTML, CSS and JavaScript on a single `<canvas>`, with no 
 
 ### Executing program
 
-* Double-click `index.html` to open it in your browser or go to the followinf github page link .
+* Double-click `index.html` to open it in your browser or go to the following github page link [link](https://kabirutreja.github.io/mirror-typing/).
 * Press `1`, `2` or `3` to pick Chill, Normal or Hard (or press `Enter` to start on the highlighted one).
 * Type the falling words. A word disappears as soon as you finish typing it. No need to press Enter.
 * Controls during the game:
